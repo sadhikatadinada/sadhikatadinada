@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @sadhikatadinada
-- 👀 I’m interested in Economics, CS and Music
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Opensource projects
-- 📫 How to reach me: N/A
+- 👋 Hi, I’m Sadhika
+- 👀 I’m interested in Economics and CS
+- 🌱 I’m currently learning Data Analysis & Visualisation using Python
+- 💞️ I’m looking to collaborate on opensource projects and research work
+- 📫 How to reach me: sadhikat.lsr@gmail.com
 
 <!---
 sadhikatadinada/sadhikatadinada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
